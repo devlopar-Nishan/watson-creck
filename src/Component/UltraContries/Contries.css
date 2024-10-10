@@ -1,0 +1,10 @@
+.card{
+    height:120px;
+    width: 300px;
+    border: 1px solid red;
+    margin-left: 20px;
+}
+.maincad{
+     display: flex;
+     justify-content: space-around;
+}

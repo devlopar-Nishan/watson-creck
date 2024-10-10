@@ -1,0 +1,42 @@
+.cadimg img{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+.cadimg{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.cadtex{
+    width: 180px;
+
+}
+ .nam{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+ }
+ .smallimg{
+    height: 50px;
+    width: 50px;
+ }
+ .not{
+    display: flex;
+    justify-content: space-around;
+ }
+ .smalldiv{
+    display: flex;
+    flex-direction: column;
+     
+ }
+ ol li{
+    margin-top: 25px;
+ }
+ h1{
+    display: inline-block;
+ }

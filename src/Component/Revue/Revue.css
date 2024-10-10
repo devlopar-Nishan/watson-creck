@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+.fut{
+    
+    animation: mation   infinite ;
+    transform-origin: left top;
+    
+     
+}
+.imgbg{
+    background: #000;
+    width: 300px;
+    padding: 20px;
+    overflow: hidden;  
+    height: 300px;
+    margin-left: 130px;
+}
+
+@keyframes mation {
+    0%{
+        transform: rotate(0deg);
+        
+
+    }
+    100%{
+        transform: rotate(300deg);
+         
+    }
+    
+}

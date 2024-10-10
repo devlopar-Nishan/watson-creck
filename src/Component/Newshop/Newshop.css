@@ -1,0 +1,12 @@
+.shop-body{
+    display: flex;
+    justify-content: space-between;
+}
+.product-shop{
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    width: 70%;
+}
+.cart-shop{
+    width: 30%;
+}
